@@ -2,26 +2,34 @@
 ***
 ![Photo](./photo.jpeg)
 ## Contacts
-    + **email:** stashakasha@gmail.com
-    + **telegram** @stashakasha
-    + **discord** stasha#0254
++ **phone** +380674810442
++ **email:** stashakasha@gmail.com
++ **telegram** @stashakasha
++ **discord** stasha#0254
++ **GitHub** stashakasha
 
 ## About myself:
 
-kjadfbvlajhvbkajfn 
+I easily find a common language with people. I always try to find an individual approach in my work. I love to travel and learn something new, raise the level of my knowledge to a new level.
 
 ## Skills:
 
 * HTML
-* CSS(SASS)
+* CSS(SASS, BEM methodology)
 * JavaScript
 * React
-* BEM
-* Git/GitHub
+* Module Bundlers: Webpack.
+* Version control: Git (remote service GitHub)
+* Figma(for web development)
+* Editors: VSCode
 
 ## Code example:
 
+**Peak array index KATA from CODEWARS:** We need a function that can transform a string into a number. What ways of achieving this do you know?
 ```
+const stringToNumber = function(str){
+  return Number(str);
+}
 ```
 
 ## Experience:
