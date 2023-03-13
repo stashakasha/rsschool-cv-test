@@ -1,5 +1,6 @@
 # Kropyvnytska Oleksandra
 ***
+![Photo](./photo.jpeg)
 ## Contacts
     + **email:** stashakasha@gmail.com
     + **telegram** @stashakasha
@@ -25,7 +26,7 @@ kjadfbvlajhvbkajfn
 
 ## Experience:
 
-Project for ukrainian charitable foundation. 
+Project for ukrainian charitable foundation. [Here][https://github.com/ITGenUni/front_team_10]
 
 ## Education:
 
