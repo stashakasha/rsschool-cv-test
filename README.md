@@ -1,4 +1,3 @@
 # rsschool-cv
 
-
-https://stashakasha.github.io/rsschool-cv/cv.md
+https://stashakasha.github.io/rsschool-cv/cv
